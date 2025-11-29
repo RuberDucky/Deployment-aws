@@ -318,4 +318,4 @@ After successful deployment, you can access:
 
 ---
 
-**Note**: This guide assumes you're deploying on Ubuntu. Adjust commands accordingly for other distributions. Always follow security best practices in production environments.
+**Note**: This guide assumes you're deploying on Ubuntu. Adjust commands accordingly for other distributions. Always follow security best practices in production environments. I would upload Python fastAPI Production server
